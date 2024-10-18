@@ -1,0 +1,1 @@
+这里的动态库(libmyfunc.so)和静态库(libmyfunc.a)是Demo3生成的，这两个库只需要其中一个即可
